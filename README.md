@@ -1,4 +1,4 @@
-# LinkedIn Job tech Post Analysis in India  
+# LinkedIn teck Joba Analysis in India  
 
 This repository contains my analysis of LinkedIn Tech job postings in India. The project aims to extract valuable insights about job trends, 
 skills in demand, and other key metrics to help job seekers and recruiters understand the job market better.  
